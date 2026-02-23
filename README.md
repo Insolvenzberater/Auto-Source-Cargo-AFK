@@ -1,6 +1,3 @@
-Gemini hat gesagt
-Here is a professional, clean, and well-structured README.md for your GitHub repository in English.
-
 GTA V Smart AFK & Menu Automation (AutoHotkey v2)
 An advanced, intelligent automation script for Grand Theft Auto V built with AutoHotkey v2. This bot combines a precise menu navigation sequence with a randomized anti-AFK system, specifically designed to allow the user to continue working on their PC while the script runs in the background.
 
