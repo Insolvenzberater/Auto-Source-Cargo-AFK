@@ -19,7 +19,7 @@ An advanced, intelligent automation script for Grand Theft Auto V. This bot stre
 * **Dual-Interval Logic:**
     * **Main Sequence:** Executes a precise 6-row command chain every **50 minutes**.
     * **Anti-AFK System:** Sends a "Z" pulse every **~14 minutes** (with $\pm 30s$ random variance) to prevent session kicks.
-* **Input Protection:** Utilizes `BlockInput` and `ClipCursor` (Mouse Lock) during active sequences to prevent accidental interference.
+* **Input Protection:** Utilizes `BlockInput` during active sequences to prevent accidental interference.
 * **Human-Like Timings:** Includes randomized micro-variations ($\pm 20ms$) for every delay and keystroke.
 
 ## 🛠 Prerequisites
